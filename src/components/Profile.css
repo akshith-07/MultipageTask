@@ -1,0 +1,205 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+}
+.contact-details {
+    background: white;
+    color: black;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 8px;
+}
+#photo
+{
+   
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+#font
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
+body{
+    background-color: rgb(156, 154, 154);
+    color: black;
+    font-size: 20px;
+    
+    
+}
+.center
+{
+    min-height: 200px;
+    width: 75%;
+    min-width: 600px;
+    background: black;
+    margin: 50px auto;
+    padding: 30px;
+    color: white;
+
+  
+
+
+}
+#photo
+{
+    width: 150x;
+    height: 150px;
+}
+#objective
+{
+    border: 2px solid white;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 30px 10 10px;
+}
+#education
+{
+    border: 2px solid white;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 30px 10 10px;
+
+}
+
+#skills
+{
+    border: 2px solid white;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 30px 10 10px; 
+
+}
+
+#projects
+{
+    border: 2px solid white;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 30px 10 10px;
+
+}
+
+#extracurriculars
+{
+    border: 2px solid white;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 30px 10 10px;
+}
+
+#certificates
+{
+    border: 2px solid white;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 30px 10 10px;
+}
+
+#personalinfo
+{
+    border: 2px solid white;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 30px 10 10px;
+}
+img
+{
+    border: 5px solid #ffffff;
+}
+
+.button
+{
+    position: fixed;
+    top: 20px;
+    right: 15px;
+}
+
+.button {
+  font-family: "Open Sans", sans-serif;
+  font-size: 10px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+ 
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button:active {
+  box-shadow: 0px 0px 0px 0px;
+ 
+}
+
+@media (min-width: 768px) {
+  .button {
+    padding: 0.25em 0.75em;
+  }
+}
+.button1
+{
+    position: fixed;
+    top: 20px;
+    left: 15px;
+}
+.button1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 10px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+   
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button1:active {
+    box-shadow: 0px 0px 0px 0px;
+   
+  }
+  
+  @media (min-width: 768px) {
+    .button1 {
+      padding: 0.25em 0.75em;
+    }
+  }
+  .ricky
+  {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;  
+   
+  }
